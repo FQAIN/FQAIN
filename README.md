@@ -39,9 +39,9 @@ Get in touch with me on:
 
 ---
 
-### Now Playing 🎧
+<!-- ### Now Playing 🎧
 
-[![Spotify](https://spotify-recently-played-6w8ea7g4e.vercel.app/api/spotify)](https://open.spotify.com/user/mr5jgbqp3jw221j271iz2nix9)
+[![Spotify](https://spotify-recently-played-6w8ea7g4e.vercel.app/api/spotify)](https://open.spotify.com/user/mr5jgbqp3jw221j271iz2nix9) -->
 <br/>
 ---
 
