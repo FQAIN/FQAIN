@@ -14,7 +14,7 @@
 <a href="https://www.w3schools.com/cpp/" target="_blank"> <img align="left" alt="C++" width="26px" src="https://github.com/FQAIN/trying-repos/blob/main/c%2B%2B.png"/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img align="left" alt="git" width="26px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/> </a>
 <img align="left" alt="GitHub" width="26px" src="https://github.com/FQAIN/trying-repos/blob/main/github.svg" />
-<img align="left" alt="CodeIgniter" width="26px" src="https://github.com/FQAIN/trying-repos/blob/main/ci.png" />
+<img align="left" alt="CodeIgniter" width="36px" src="https://github.com/FQAIN/trying-repos/blob/main/ci.png" />
 <br />
 <br />
 ### Softwares:
