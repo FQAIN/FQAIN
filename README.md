@@ -1,4 +1,4 @@
-## Hello, I'm <a href="http://www.fyazqadirahmedikram.epizy.com" target="_blank">Fyaz</a>!
+## Hello, I'm <a href="https://fqain.github.io/fyazqadirahmedikram/" target="_blank">Fyaz</a>!
 Get in touch with me on:
 <br />
 <a href="https://www.w3.org/html/" target="_blank"><img align="left" alt="HTML5" width="30px" src="https://github.com/FQAIN/trying-repos/blob/main/iconfinder_1_Whatsapp2_colored_svg_5296520.png" /></a>
