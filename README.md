@@ -26,7 +26,7 @@
 <img align="left" alt="xampp" width="30px" src="https://github.com/FQAIN/trying-repos/blob/main/1200px-XAMPP_logo.svg.png" />
 <img align="left" alt="netbeans" width="30px" src="https://github.com/FQAIN/trying-repos/blob/main/666px-Apache_NetBeans_Logo.svg.png" />
 <img align="left" alt="phpstorm" width="30px" src="https://github.com/FQAIN/trying-repos/blob/main/1024px-PhpStorm_Logo.svg.png" />
-<img align="left" alt="datagrip" width="30px" src="https://github.com/FQAIN/trying-repos/blob/main/768px-DataGrip.svg.png" />
+<img align="left" alt="datagrip" width="30px" src="https://github.com/FQAIN/trying-repos/blob/main/datagrip-logo-295CA63255-seeklogo.com.png" />
 <img align="left" alt="brackets" width="30px" src="https://github.com/FQAIN/trying-repos/blob/main/1200px-Brackets_Icon.svg.png" />
 <img align="left" alt="webstorm" width="30px" src="https://github.com/FQAIN/trying-repos/blob/main/webstorm-logo-691E749F21-seeklogo.com.png" />
 <img align="left" alt="pycharm" width="30px" src="https://github.com/FQAIN/trying-repos/blob/main/kisspng-pycharm-jetbrains-intellij-idea-integrated-develop-5b35cf9d892606.3464795215302532135618.jpg" />
