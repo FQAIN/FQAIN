@@ -21,7 +21,7 @@
 ### Softwares:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<a href="https://www.blender.org" target="_blank"> <img align="left" alt="Photoshop" width="26px" src="https://freeicons.io/vector-and-svg-logos-icons-10/favorite-html-icon-6253"/> </a>
+<a href="https://www.blender.org" target="_blank"> <img align="left" alt="Photoshop" width="26px" src="https://github.com/FQAIN/trying-repos/blob/main/photoshop.png"/> </a>
 <br /><br />
 
 
