@@ -15,7 +15,7 @@
 <a href="https://git-scm.com/" target="_blank"> <img align="left" alt="git" width="26px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/> </a>
 <img align="left" alt="GitHub" width="26px" src="https://github.com/FQAIN/trying-repos/blob/main/github.svg" />
 <img align="left" alt="CodeIgniter" width="36px" src="https://github.com/FQAIN/trying-repos/blob/main/ci.png" />
-<img align="left" alt="bootstrap" width="36px" src="https://github.com/FQAIN/trying-repos/blob/main/bootstrap-social-logo.png" />
+<img align="left" alt="bootstrap" width="26px" src="https://github.com/FQAIN/trying-repos/blob/main/bootstrap-social-logo.png" />
 <br />
 <br />
 ### Softwares:
