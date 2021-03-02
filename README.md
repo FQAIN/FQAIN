@@ -20,8 +20,17 @@
 <br />
 ### Softwares:
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<a href="https://www.blender.org" target="_blank"> <img align="left" alt="Photoshop" width="26px" src="https://github.com/FQAIN/trying-repos/blob/main/photoshop.png"/> </a>
+<img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<a href="https://www.blender.org" target="_blank"> <img align="left" alt="Photoshop" width="30px" src="https://github.com/FQAIN/trying-repos/blob/main/photoshop.png"/> </a>
+<img align="left" alt="dreamweaver" width="30px" src="https://github.com/FQAIN/trying-repos/blob/main/download.png" />
+<img align="left" alt="xampp" width="30px" src="https://github.com/FQAIN/trying-repos/blob/main/1200px-XAMPP_logo.svg.png" />
+<img align="left" alt="netbeans" width="30px" src="https://github.com/FQAIN/trying-repos/blob/main/666px-Apache_NetBeans_Logo.svg.png" />
+<img align="left" alt="phpstorm" width="30px" src="https://github.com/FQAIN/trying-repos/blob/main/1024px-PhpStorm_Logo.svg.png" />
+<img align="left" alt="datagrip" width="30px" src="https://github.com/FQAIN/trying-repos/blob/main/768px-DataGrip.svg.png" />
+<img align="left" alt="brackets" width="30px" src="https://github.com/FQAIN/trying-repos/blob/main/1200px-Brackets_Icon.svg.png" />
+<img align="left" alt="webstorm" width="30px" src="https://github.com/FQAIN/trying-repos/blob/main/webstorm-logo-691E749F21-seeklogo.com.png" />
+<img align="left" alt="pycharm" width="30px" src="https://github.com/FQAIN/trying-repos/blob/main/kisspng-pycharm-jetbrains-intellij-idea-integrated-develop-5b35cf9d892606.3464795215302532135618.jpg" />
+<img align="left" alt="intellji" width="30px" src="https://github.com/FQAIN/trying-repos/blob/main/intellij-idea-ue-icon.png" />
 <br /><br />
 
 
