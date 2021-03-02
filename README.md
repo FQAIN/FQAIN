@@ -30,7 +30,7 @@
 <img align="left" alt="brackets" width="30px" src="https://github.com/FQAIN/trying-repos/blob/main/1200px-Brackets_Icon.svg.png" />
 <img align="left" alt="webstorm" width="30px" src="https://github.com/FQAIN/trying-repos/blob/main/webstorm-logo-691E749F21-seeklogo.com.png" />
 <img align="left" alt="pycharm" width="30px" src="https://github.com/FQAIN/trying-repos/blob/main/1024px-PyCharm_Logo.svg.png" />
-<img align="left" alt="intellji" width="50px" src="https://github.com/FQAIN/trying-repos/blob/main/intellij-idea-ue-icon.png" />
+<img align="left" alt="intellji" width="30px" src="https://github.com/FQAIN/trying-repos/blob/main/intellij-idea-ue-icon.png" />
 <br /><br />
 
 
