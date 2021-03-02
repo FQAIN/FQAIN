@@ -16,7 +16,7 @@
 <img align="left" alt="GitHub" width="30px" src="https://github.com/FQAIN/trying-repos/blob/main/github.svg" />
 <img align="left" alt="CodeIgniter" width="36px" src="https://github.com/FQAIN/trying-repos/blob/main/ci.png" />
 <img align="left" alt="bootstrap" width="30px" src="https://github.com/FQAIN/trying-repos/blob/main/bootstrap-social-logo.png" />
-<img align="left" alt="Java" width="30px" src="https://github.com/FQAIN/trying-repos/blob/main/58480979cef1014c0b5e4901.png" />
+<img align="left" alt="Java" width="26px" src="https://github.com/FQAIN/trying-repos/blob/main/58480979cef1014c0b5e4901.png" />
 <br />
 <br />
 ### Softwares:
