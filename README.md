@@ -2,9 +2,6 @@
 (Use dark theme to find my socials ;)
 
 <br />
-<br />
-<br />
-
 
 
 ### Languages and Tools:
