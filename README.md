@@ -1,6 +1,6 @@
 ## Hello, I'm <a href="http://www.fyazqadirahmedikram.epizy.com" target="_blank">Fyaz</a>!
 (Use dark theme to find my socials ;)
-     <a href="https://github.com/FQAIN" class="instagram"><i class="bx bxl-github"></i></a>
+     <a href="https://github.com/FQAIN" class="instagram"><i class="fa fa-github"></i></a>
         <a href="skype:live:fyazikram7860?userinfo" class="google-plus"><i class="bx bxl-skype"></i></a>
         <a href="https://linkedin.com/in/fyazikram" class="linkedin"><i class="bx bxl-linkedin"></i></a>
         <a href="https://api.whatsapp.com/send?phone=353894389623" class="whatsapp"><i class="bx bxl-whatsapp"></i></a>
