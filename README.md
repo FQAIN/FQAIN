@@ -1,7 +1,7 @@
 ## Hello, I'm <a href="http://www.fyazqadirahmedikram.epizy.com" target="_blank">Fyaz</a>!
 Get in touch with me on:
 <br />
-<a href="https://www.w3.org/html/" target="_blank"><img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></a>
+<a href="https://www.w3.org/html/" target="_blank"><img align="left" alt="HTML5" width="30px" src="https://github.com/FQAIN/trying-repos/blob/main/iconfinder_2018_social_media_popular_app_logo-whatsapp_3225179.png" /></a>
 <br /><br />
 ### Languages and Frameworks:
 
