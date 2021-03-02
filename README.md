@@ -2,6 +2,9 @@
 Get in touch with me on:
 <br />
 <a href="https://www.w3.org/html/" target="_blank"><img align="left" alt="HTML5" width="30px" src="https://github.com/FQAIN/trying-repos/blob/main/iconfinder_2018_social_media_popular_app_logo-whatsapp_3225179.png" /></a>
+<a href="https://www.w3.org/html/" target="_blank"><img align="left" alt="HTML5" width="30px" src="https://github.com/FQAIN/trying-repos/blob/main/iconfinder_github_291716.png" /></a>
+<a href="https://www.w3.org/html/" target="_blank"><img align="left" alt="HTML5" width="30px" src="https://github.com/FQAIN/trying-repos/blob/main/iconfinder_social_media_applications_14-linkedin_4102586.png" /></a>
+<a href="https://www.w3.org/html/" target="_blank"><img align="left" alt="HTML5" width="30px" src="https://github.com/FQAIN/trying-repos/blob/main/iconfinder_social_media_applications_17-skype_4102589.png" /></a>
 <br /><br />
 ### Languages and Frameworks:
 
