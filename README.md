@@ -1,4 +1,4 @@
-<img alt="Night Coding" src="https://github.com/FQAIN/trying-repos/blob/main/Untitled%20design.png" width='100%' align="left" style="margin-bottom:200px;"/>
+<img alt="Night Coding" src="https://github.com/FQAIN/trying-repos/blob/main/Untitled%20design.png" height="20px" width='100%' align="left" style="margin-bottom:200px;"/>
 <br /><br />
 
 
