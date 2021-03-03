@@ -2,15 +2,6 @@
 <br />
 <br />
 <br />
-### Hello, I'm <a href="https://fqain.github.io/fyazqadirahmedikram/" target="_blank">Fyaz</a>!
-Get in touch with me on:
-<br />
-<a href="https://www.w3.org/html/" target="_blank"><img align="left" alt="HTML5" width="30px" src="https://github.com/FQAIN/trying-repos/blob/main/iconfinder_1_Whatsapp2_colored_svg_5296520.png" /></a>
-<a href="https://www.w3.org/html/" target="_blank"><img align="left" alt="HTML5" width="30px" src="https://github.com/FQAIN/trying-repos/blob/main/iconfinder_GitHub_4745725.png" /></a>
-<a href="https://www.w3.org/html/" target="_blank"><img align="left" alt="HTML5" width="30px" src="https://github.com/FQAIN/trying-repos/blob/main/iconfinder_social_media_applications_14-linkedin_4102586.png" /></a>
-<a href="https://www.w3.org/html/" target="_blank"><img align="left" alt="HTML5" width="30px" src="https://github.com/FQAIN/trying-repos/blob/main/iconfinder_social_media_applications_17-skype_4102589.png" /></a>
-<br />
-<br />
 
 ### ⚙️ &nbsp;Tech Stacks:
 ⚙️ &nbsp;Languages and Frameworks: 
@@ -53,3 +44,11 @@ Get in touch with me on:
 
 
 ### ⚙️ &nbsp;GitHub Analytics <br /><br /> <p align="center"> <a href="https://github.com/FQAIN"> <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=FQAIN&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=FQAIN&layout=compact&langs_count=8&theme=dark"/> </a> </p>
+Get in touch with me on:
+<br />
+<a href="https://www.w3.org/html/" target="_blank"><img align="left" alt="HTML5" width="30px" src="https://github.com/FQAIN/trying-repos/blob/main/iconfinder_1_Whatsapp2_colored_svg_5296520.png" /></a>
+<a href="https://www.w3.org/html/" target="_blank"><img align="left" alt="HTML5" width="30px" src="https://github.com/FQAIN/trying-repos/blob/main/iconfinder_GitHub_4745725.png" /></a>
+<a href="https://www.w3.org/html/" target="_blank"><img align="left" alt="HTML5" width="30px" src="https://github.com/FQAIN/trying-repos/blob/main/iconfinder_social_media_applications_14-linkedin_4102586.png" /></a>
+<a href="https://www.w3.org/html/" target="_blank"><img align="left" alt="HTML5" width="30px" src="https://github.com/FQAIN/trying-repos/blob/main/iconfinder_social_media_applications_17-skype_4102589.png" /></a>
+<br />
+<br />
