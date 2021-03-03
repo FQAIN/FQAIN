@@ -1,7 +1,6 @@
 <img alt="Night Coding" src="https://github.com/FQAIN/trying-repos/blob/main/Untitled%20design.png" width='100%' align="left"/>
-<br />
-<br />
-<br />
+<br /><br />
+
 
 ---
 
