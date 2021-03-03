@@ -1,5 +1,7 @@
 <img alt="Night Coding" src="https://github.com/FQAIN/trying-repos/blob/main/FQAIN%20WELCOMEDS%20YOU%20!!!.png" width='100%' align="left"/>
-<br /><br />
+<br />
+<br />
+<br />
 ## Hello, I'm <a href="https://fqain.github.io/fyazqadirahmedikram/" target="_blank">Fyaz</a>!
 Get in touch with me on:
 <br />
@@ -49,4 +51,5 @@ Get in touch with me on:
 <br/>
 
 
-### ⚙️ &nbsp;GitHub Analytics <p align="center"> <a href="https://github.com/FQAIN"> <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=FQAIN&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=FQAIN&layout=compact&langs_count=8&theme=algolia"/> </a> </p>
+
+### ⚙️ &nbsp;GitHub Analytics <br /><p align="center"> <a href="https://github.com/FQAIN"> <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=FQAIN&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=FQAIN&layout=compact&langs_count=8&theme=algolia"/> </a> </p>
