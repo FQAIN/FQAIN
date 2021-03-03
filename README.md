@@ -7,9 +7,9 @@ Get in touch with me on:
 <a href="https://www.w3.org/html/" target="_blank"><img align="left" alt="HTML5" width="30px" src="https://github.com/FQAIN/trying-repos/blob/main/iconfinder_GitHub_4745725.png" /></a>
 <a href="https://www.w3.org/html/" target="_blank"><img align="left" alt="HTML5" width="30px" src="https://github.com/FQAIN/trying-repos/blob/main/iconfinder_social_media_applications_14-linkedin_4102586.png" /></a>
 <a href="https://www.w3.org/html/" target="_blank"><img align="left" alt="HTML5" width="30px" src="https://github.com/FQAIN/trying-repos/blob/main/iconfinder_social_media_applications_17-skype_4102589.png" /></a>
-<br /><br />
-### ⚙️ &nbsp;Languages and Frameworks:
-
+<br />
+<br />
+### ⚙️ &nbsp;Languages and Frameworks: 
 
 <a href="https://www.w3.org/html/" target="_blank"><img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></a>
 <a href="https://www.w3schools.com/css/" target="_blank"><img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></a>
