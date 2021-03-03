@@ -1,3 +1,4 @@
+<img alt="Night Coding" src="https://github.com/FQAIN/trying-repos/blob/main/FQAIN%20WELCOMEDS%20YOU%20!!!.png" width='40' align="left"/>
 ## Hello, I'm <a href="https://fqain.github.io/fyazqadirahmedikram/" target="_blank">Fyaz</a>!
 Get in touch with me on:
 <br />
