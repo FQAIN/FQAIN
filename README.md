@@ -3,6 +3,8 @@
 <br />
 <br />
 
+---
+
 ### ⚙️ &nbsp;Tech Stacks:
 ⚙️ &nbsp;Languages and Frameworks: 
 
