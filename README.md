@@ -47,4 +47,4 @@ Get in touch with me on:
 <br/>
 
 
-[![Fyaz's github stats](https://github-readme-stats.vercel.app/api?username=FQAIN&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats)
+### ⚙️ &nbsp;GitHub Analytics <p align="center"> <a href="https://github.com/AVS1508"> <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=FQAIN&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=FQAIN&layout=compact&langs_count=8&theme=algolia"/> </a> </p>
